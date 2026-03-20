@@ -1,0 +1,30 @@
+html {
+    background-color: lightskyblue;
+}
+
+body{
+    max-width: 50em;
+    margin: 1em auto;
+    background-color: white;
+    padding: 1em;
+    border-radius: 1em;
+}
+
+h1 {
+    color: #002255;
+    text-align: center;
+    text-shadow: 1px 1px 2px lightgray;
+}
+
+
+h2 {
+    color: #0057B8;
+    border-bottom: 2px solid #0057B8;
+    padding-bottom: 5px;
+}
+
+
+p {
+    font-size: 16px;
+    line-height: 1.6;
+}
